@@ -9,16 +9,7 @@ This code book summarizes the resulting data fields in tidydata_average.txt
 
 ### Measurements
 
- Tables   |      Are      |  
-|----------|:-------------:|
-| col 1 is |               | 
-| col 2 is |     | 
-| col 3 is | right-aligned | 
-
-
-
-
-|          VARIABLE NAMES						 |    UNITS       |   
+|       VARIABLE NAMES						                     |    UNITS       |   
 |------------------------------------------------|:--------------:|
 |* timeBodyAccelerometer-mean()-X                |                |
 |* timeBodyAccelerometer-mean()-Y                |                |
@@ -86,4 +77,4 @@ This code book summarizes the resulting data fields in tidydata_average.txt
 |* frequencyBodyGyroscopeMagnitude-std()         |                |
 |* frequencyBodyGyroscopeJerkMagnitude-mean()    |                |
 |* frequencyBodyGyroscopeJerkMagnitude-std()     |                |
-|                                                                 |
+
