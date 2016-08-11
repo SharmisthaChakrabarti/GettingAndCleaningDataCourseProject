@@ -100,5 +100,5 @@ The unit of summaries calculated is in Hertz.
 * The variable names of the data set was appropriately label with descriptive variable names
 * Finally, a second  independent tidy dataset was created which consists of the average (mean) value of each variable 
   for each subject and activity pair.
-* The second tidy dataset was writen in .txt file.
-* 
+* The second tidy dataset was writen in .txt file (tidydata_average.txt)
+
