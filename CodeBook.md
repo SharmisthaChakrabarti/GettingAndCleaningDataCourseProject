@@ -9,6 +9,12 @@ This code book summarizes the resulting data fields in tidydata_average.txt
 
 ### Measurements
 
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+
 * timeBodyAccelerometer-mean()-X 
 * timeBodyAccelerometer-mean()-Y 
 * timeBodyAccelerometer-mean()-Z 
