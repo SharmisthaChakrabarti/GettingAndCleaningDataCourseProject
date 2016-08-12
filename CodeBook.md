@@ -89,15 +89,15 @@ The unit of summaries calculated is in Hertz.
 * Unzipped the files
 * Read the unzipped files
 * Merged the training and the test sets and created one data set
-    * The data set Feature was created by concatenating the files X_test.txt and X_train.txt 
-    * The data set Activity was created by concatenating the files y_test.txt and y_train.txt 
-    * The data set Subject was created by concatenating the files subject_test.txt and subject_train.txt
+    * The data set Feature was created by row binding the files X_test.txt and X_train.txt 
+    * The data set Activity was created by row binding the files y_test.txt and y_train.txt 
+    * The data set Subject was created by row binding the files subject_test.txt and subject_train.txt
     * The variable of the three data sets (Feature, Activity, Subject) were properly named
-    * Then the three data sets were combined (by columns) together to myData
-* Constructed a subset of the data Feature by extracted only those columns with column names containing "mean()" and "std()"
-* New myData was formed by combining the above subset, and the data sets Subject and Activity.  
+    * Then the three data sets were combined (by columns) together to  form myData
+* Constructed a subset of the data Feature by extracting only those columns with column names containing "mean()" and "std()"
+* New myData was formed by combining the above subset, and the datasets Subject and Activity.  
 * Descriptive activity names are used to replace activity numbers by corresponding descriptive activity names
-* The variable names of the data set was appropriately label with descriptive variable names
+* The variable names of the data set were appropriately labelled with descriptive variable names
 * Finally, a second  independent tidy dataset was created which consists of the average (mean) value of each variable 
   for each subject and activity pair.
 * The second tidy dataset was writen in .txt file (tidydata_average.txt)
