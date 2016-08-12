@@ -1,8 +1,8 @@
 # Getting And Cleaning Data Course Project
 
-This repository hosts the R code and documentation files for the Data Science Specialization's track course "Getting and Cleaning data", available in coursera. The R script, run_analysis.R, does the following:
+This repository hosts the R code and documentation files for the Data Science Specialization's track course "Getting and Cleaning data", available in coursera. The R script, run_analysis.R , does the following:
 
-* Downloads the dataset in the folder data. If the folder data does not already exist in the working directory, it creates the folder   first.
+* Downloads the dataset in the folder 'data'. If the folder 'data' does not already exist in the working directory, it creates the folder   first.
 * Loads the activity and feature info.
 * Loads both the training and test datasets, keeping only those columns which reflect a mean or standard deviation.
 * Loads the activity and subject data for each dataset, and then.
@@ -19,4 +19,4 @@ Note:
 * The code takes for granted that all the data is present in the same folder, un-compressed and without names altered.
 * CodeBook.md describes the variables, the data, and any transformations or work that was performed to clean up the data.
 
-tidydata_average.txt
+
