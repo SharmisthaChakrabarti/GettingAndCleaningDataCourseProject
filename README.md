@@ -16,4 +16,4 @@ This repository hosts the R code and documentation files for the Data Science Sp
 The tidy data tidydata_average.txt is uploaded in the repo.
 
 Note: The code takes for granted that all the data is present in the same folder, un-compressed and without names altered.
-----
+
