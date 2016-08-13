@@ -8,7 +8,7 @@ This repository hosts the R code and documentation files for the Data Science Sp
 * Loads the activity and subject data for each dataset, and then.
 * Merges the training and the test sets and creats one data set.
 * Replaces the numeric activity labels by corresponding descriptive activity names.
-* Relabels the variable names of the data set with appropriate descriptive variable names
+* Re-labels the variable names of the data set with appropriate descriptive variable names
 * Finally, it creates a second,  independent tidy dataset which consists of the average (mean) value of each variable 
   for each subject and activity pair.
 * The second tidy dataset was writen in .txt file (tidydata_average.txt)
